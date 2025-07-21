@@ -1,0 +1,4 @@
+body { background: #f8f9f8; }
+.navbar { border-bottom: 4px solid #28a745; }
+.card { transition: transform .2s; }
+.card:hover { transform: scale(1.02); }
