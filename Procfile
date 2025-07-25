@@ -1,1 +1,1 @@
-web: gunicorn minicatalog.wsgi:application
+gunicorn minicatalog.wsgi:application
